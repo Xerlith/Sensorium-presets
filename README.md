@@ -13,7 +13,10 @@ How to contribute:
 
 1. Create a GitHub account (if you don't have one. But if you do, you probably know all this stuff anyway).
 2. Click on the "Fork" button in the top right corner of this repository's main page. ![image](https://i.imgur.com/vKNybQ1.png)
-3. In _your copy_ of the repository, click "upload files" and choose "Create a branch" in the bottom commit box. Think of a branch like a container for the changes (commits) you make. The branch's name is the general direction/goal of your changes. The commit name is what this particular change you're uploading does. Those changes are cumulative in any given branch (so you can work on many separate ideas at once, as long as you switch branches).
+3. In _your copy_ of the repository, click "upload files" and choose "Create a branch" in the bottom commit box. Think of a branch like a container for the changes (commits) you make. The branch's name is the general direction/goal of your changes. The commit name is what this particular change you're uploading does. Those changes are cumulative in any given branch (so you can work on many separate ideas at once, as long as you switch branches). Upload either all your enb's .ini files, or just the ones you know you modified.
 4. Follow this [guide](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) on how to create a Pull Request for me to review and integrate those changes into the main ENB.
+
+
+I recommend editing the settings in the ENB menu ingame, then saving them and THEN committing those files. Don't do it by hand.
 
 If there's more than one person interested in contributing, I'll look into creating a simplified contribution workflow.
