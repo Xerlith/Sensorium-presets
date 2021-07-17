@@ -1,4 +1,4 @@
-# Sensorium ENB Setting Presets repository
+# Sensorium of Stereoscopy ENB Setting Presets repository
 
 This is my attempt at - hopefully - getting others to contribute their ENB settings either to improve the main preset's visual theme, or create some completely separate ones. The preset's shader settings are really flexible, and hopefully some of us like tweaking them.
 
