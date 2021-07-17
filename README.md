@@ -6,7 +6,7 @@ How to contribute:
 
 ## If you're experienced with the Git workflow
 1. Fork this repo
-2. Intialize a repo in your root ENB directory (I use MO2 with the Root extension to keep them separate - and I recommend you do, too)
+2. Intialize a repo in your root ENB directory (I use MO2 with the [Root extension](https://www.nexusmods.com/fallout4/mods/43814) to keep them separate - and I recommend you do, too)
 3. Create a PR like you would with any other forked GH project.
 
 ## If you're not experienced with the Git workflow
